@@ -19,7 +19,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/touch_mcs7000.idc:system/usr/idc/touch_mcs7000.idc \
     $(LOCAL_PATH)/configs/7k_handset.kl:system/usr/keylayout/7k_handset.kl
     $(LOCAL_PATH)/configs/AVRCP.kl:system/usr/keylayout/AVRCP.kl 
-    $(LOCAL_PATH)/prebuilt/init.qcom.sh:root/init.qcom.sh 
+    $(LOCAL_PATH)/prebuilt/init.qcom.sh:root/init.qcom.bt.sh
 
 # WiFi
 PRODUCT_COPY_FILES += \
