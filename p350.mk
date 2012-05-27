@@ -16,9 +16,9 @@ PRODUCT_COPY_FILES += \
 
 # configs
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/configs/pecan_keypad.kl:system/usr/keylayout/pecan_keypad.kl \
-    $(LOCAL_PATH)/configs/pecan_keypad.kcm.bin:system/usr/keychars/pecan_keypad.kcm.bin \
-    $(LOCAL_PATH)/configs/touch_mcs6000.idc:system/usr/idc/touch_mcs6000.idc \
+    $(LOCAL_PATH)/configs/touch_mcs7000.idc:system/usr/idc/touch_mcs7000.idc \
+    $(LOCAL_PATH)/configs/7k_handset.kl:system/usr/keylayout/7k_handset.kl
+    $(LOCAL_PATH)/configs/AVRCP.kl:system/usr/keylayout/AVRCP.kl 
     $(LOCAL_PATH)/prebuilt/init.qcom.sh:root/init.qcom.sh 
 
 # WiFi
