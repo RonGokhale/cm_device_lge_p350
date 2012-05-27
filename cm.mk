@@ -23,7 +23,7 @@ PRODUCT_CHARACTERISTICS := phone
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=lge_p350 \
     BUILD_FINGERPRINT="lge/pecan/pecan:2.3.7/GRJ90/20111018:user/release-keys" \
-    PRIVATE_BUILD_DESC="pecan-user 2.3.3 GRJ90 20111018 release-keys"
+    PRIVATE_BUILD_DESC="pecan-user 2.3.7 GRJ90 20111018 release-keys"
 
 # Release name and versioning
 PRODUCT_RELEASE_NAME := OptimusMe
